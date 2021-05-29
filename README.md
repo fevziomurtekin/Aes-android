@@ -1,6 +1,6 @@
 The more popular and widely adopted symmetric encryption algorithm likely to be encountered nowadays is the Advanced Encryption Standard (AES). It is found at least six time faster than triple DES.
+This project uses Android Util class for encoding string unlike similar ones.
 
-This project used AndroidUtil class for encode string.
 # Setup
 ## Gradle
 ```Gradle
