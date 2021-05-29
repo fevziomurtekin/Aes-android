@@ -38,6 +38,8 @@ dependencies {
   Log.d("Aes-Android","enc = $encrypted --- dec = $dencrypted")
 ```
 
+> Output: D/Aes-Android: enc = U2FsdGVkX1+1KvBiQXTjfEBoPEv1BWuVWcuz96cTahk= --- dec = Fevziomurtekin
+
 
 ## License
 The MIT License - see [`LICENSE`](LICENSE) for more details
