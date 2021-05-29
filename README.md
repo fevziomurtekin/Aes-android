@@ -40,4 +40,4 @@ dependencies {
 
 
 ## License
-The MIT License 2.0 - see [`LICENSE`](LICENSE) for more details
+The MIT License - see [`LICENSE`](LICENSE) for more details
